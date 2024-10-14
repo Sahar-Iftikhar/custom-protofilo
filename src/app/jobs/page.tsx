@@ -1,3 +1,4 @@
+import Image from 'next/image'; // Ensure to import Image from 'next/image'  
 import Header from "@/component/Header"
 import Footer from "@/component/Footer"
 export default function Jobs (){
@@ -18,7 +19,7 @@ export default function Jobs (){
           </div>
 
           <div className="job">
-            <img src="/developer.png" alt="software" />
+            <Image src="/developer.png" alt="software" />
             <h3 className="job-title">Front-End Developer</h3>
             <div className="details">Responsible for designing, developing and maintaining websites and application
             </div>

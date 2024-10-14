@@ -1,9 +1,10 @@
+import Image from 'next/image'; // Ensure to import Image from 'next/image'  
 import Header from "@/component/Header"
 import Footer from "@/component/Footer"
 
 export default function Contact (){
   return(
-    <div className=".Contact">
+    <div className="Contact">
       <Header/>
       <div className="contact-container">
         <form action="https://api.web3forms.com/submit" method="POST" className="contact-left">
@@ -18,7 +19,7 @@ export default function Contact (){
           <button type="submit">Submit <img src="/arrow_icon.png" alt="arrow" /></button>
         </form>
       <div className="contact-right">
-        <img src="/contactUs.png" alt="image" />
+      <Image src="/contactUs.png" alt="Contact Us" />
       </div>
       </div>
       <Footer/>

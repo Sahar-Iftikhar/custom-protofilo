@@ -1,3 +1,4 @@
+import Image from 'next/image'; // Ensure to import Image from 'next/image'  
 import Header from "@/component/Header"
 import Footer from "@/component/Footer"
 
@@ -17,7 +18,7 @@ on experience in TypeScript and Next.js. Passionate about
  deeper understanding of computer science in others</p>
  <button className="cta-button">Learn More</button>
  </div>
-  <img className="book-image" src="/book.jpeg" alt="image" />
+  <Image className="book-image" src="/book.jpeg" alt="image" />
  </div>
  <Footer/>
     </div>
