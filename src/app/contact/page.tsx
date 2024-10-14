@@ -19,7 +19,7 @@ export default function Contact (){
           <button type="submit">Submit <img src="/arrow_icon.png" alt="arrow" /></button>
         </form>
       <div className="contact-right">
-      <Image src="/contactUs.png" alt="Contact Us" />
+      <Image src="/contactUs.png" alt="Contact Us" width={500} height={300}  />
       </div>
       </div>
       <Footer/>
