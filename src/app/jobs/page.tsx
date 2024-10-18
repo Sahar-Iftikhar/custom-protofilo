@@ -30,7 +30,7 @@ export default function Jobs (){
           </div>
 
           <div className="job">
-            <Image src="/developer.png" alt="software" />
+            <Image src="/developer.png" alt="software" height={200} width={200}/>
             <h3 className="job-title">Front-End Developer</h3>
             <div className="details">Responsible for designing, developing and maintaining websites and application
             </div>

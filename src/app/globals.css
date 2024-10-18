@@ -308,7 +308,7 @@ p{
   color: #2a91c1;
   text-decoration: overline underline rgb(246, 135, 214);
 }
-.book-image{
+.book{
   flex: 1;
   width: 600px;
   margin: auto;

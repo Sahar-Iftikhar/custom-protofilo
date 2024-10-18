@@ -18,7 +18,7 @@ on experience in TypeScript and Next.js. Passionate about
  deeper understanding of computer science in others</p>
  <button className="cta-button">Learn More</button>
  </div>
-  <Image className="/book.jpeg" src="/book.jpeg" alt="image" width={500} height={300}  />
+  <Image className="book" src="/book.jpeg" alt="image" width={500} height={300}  />
  </div>
  <Footer/>
     </div>
