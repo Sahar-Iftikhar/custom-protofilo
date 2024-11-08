@@ -8,9 +8,10 @@ export default function Content() {
         />  
       <section className="home">  
         <div className="home-content">  
-          <h1>Hi, It's <span>Sahar Iftikhar</span></h1>
+          <h1>Hi, Its <span>Sahar Iftikhar</span></h1>
           <h3 className="typing-text">{`I'm a`} <span></span></h3>  
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus labore dolores esse. Odit similique doloribus tenetur doloremque, sunt commodi in ipsa repudiandae debitis deleniti blanditiis quibusdam quaerat neque asperiores ea.</p>  
+          <p>I am a student of GIAIC Quater 2 And also completed WebDevelopment course from NAVTTAC at Karachi university
+          </p>  
           <div className="social-icons">  
             <a href="#"><i className="fa-brands fa-linkedin"></i></a>  
             <a href="#"><i className="fa-brands fa-github"></i></a>  
