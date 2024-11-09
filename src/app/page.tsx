@@ -1,5 +1,3 @@
-
-
 import Header from "../component/Header";
 import Content from "../component/contant";
 import Footer from "../component/Footer";
