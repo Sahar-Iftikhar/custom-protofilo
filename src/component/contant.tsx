@@ -8,7 +8,7 @@ export default function Content() {
         />  
       <section className="home">  
         <div className="home-content">  
-          <h1>Hi, It's <span>Sahar Iftikhar</span></h1>
+          <h1>Hi, It&apos;s <span>Sahar Iftikhar</span></h1>
           <h3 className="typing-text">{`I'm a`} <span></span></h3>  
           <p>I am a student of GIAIC Quater 2 And also completed WebDevelopment course from NAVTTAC at Karachi university
           </p>  
